@@ -110,3 +110,35 @@ Successful completion of this Airbnb Clone project depends on effective collabor
 | **Scrum Master**       | - Facilitates daily standups, sprint planning, and retrospectives<br>- Removes team blockers<br>- Promotes Agile best practices and continuous improvement |
 
 Each role plays a critical part in ensuring the product is functional, scalable, user-friendly, and delivered on time.
+
+## 🧱 UI Component Patterns
+
+This section outlines the reusable UI components planned for development in the Airbnb Clone project. These components are designed with consistency, responsiveness, and reusability in mind to streamline the user experience across the application.
+
+### 🔝 Navbar
+**Features:**
+- Logo with homepage link
+- Search bar for locations and dates
+- Navigation options (Become a Host, Login/Signup)
+- User avatar/menu for profile and settings
+- Fully responsive for mobile and desktop
+
+### 🏠 Property Card
+**Features:**
+- Property image thumbnail
+- Title or description snippet
+- Price per night
+- Location and user rating
+- Favorite/like button
+- Clickable for full listing view
+- Optimized for both grid and list layouts
+
+### 📩 Footer
+**Features:**
+- Site-wide links (About, Careers, Help Center)
+- Company info (Terms, Privacy, etc.)
+- Social media icons and links
+- Copyright information
+- Styled for visual balance on all screen sizes
+
+Each component will be developed with modularity in mind, allowing them to be reused across pages. Proper CSS class naming conventions and responsiveness will ensure they behave consistently in all contexts.
