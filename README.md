@@ -46,4 +46,50 @@ This is a full-stack clone of the popular accommodation booking platform Airbnb.
 
 ### 📄 Primary Page Descriptions
 
-| **Page**                 | **Description**
+| **Page**                 | **Description**                                                                 |
+|--------------------------|---------------------------------------------------------------------------------|
+| **Property Listing View** | Grid display of available properties with filtering options (location, price, etc.) |
+| **Listing Detailed View** | Full property information, high-resolution images, host details, map, and booking form |
+| **Simple Checkout View**  | A streamlined view that collects user payment info, shows booking summary, and confirms booking |
+
+### ✅ Importance of User-Friendly Design
+A user-friendly design in a booking system is crucial for:
+
+- **Reducing friction** during the booking process, which leads to higher conversion rates  
+- **Increasing trust and satisfaction** through a clean, consistent, and accessible interface  
+- **Enhancing usability** across devices, ensuring users on mobile or desktop can interact comfortably  
+- **Minimizing errors and confusion** through clear feedback and streamlined flows  
+
+---
+
+### 🎨 Figma Design Specifications
+
+#### 📋 Color Styles
+- **Primary:** `#FF5A5F`  
+- **Secondary:** `#008489`  
+- **Background:** `#FFFFFF`  
+- **Text (Primary):** `#222222`  
+- **Text (Secondary):** `#717171`
+
+#### 🔤 Typography
+- **Font Family:** Circular  
+- **Font Weights:**  
+  - **Book:** 400 (Secondary text)  
+  - **Medium:** 500 (Body text)  
+  - **Bold:** 700 (Headings)  
+- **Font Sizes:**  
+  - **Body Text:** 16px  
+  - **Secondary Text:** 14px  
+  - **Headings:** 24px–32px  
+
+---
+
+### 🧠 Why It's Important to Identify Design Properties from a Mockup
+
+Identifying design properties in a mockup is essential because:
+
+- 🧩 **Maintains visual consistency:** Ensures components across the app look and feel the same  
+- 📐 **Accelerates frontend development:** Developers know exactly what fonts, sizes, and colors to apply  
+- ♿ **Supports accessibility and usability:** Proper use of color contrast and font sizing helps all users  
+- 🧑‍🎨 **Bridges designer-developer collaboration:** Reduces misinterpretation and guesswork between design and code  
+- 🚀 **Ensures brand coherence:** Makes the application look professional and aligned with product identity  
