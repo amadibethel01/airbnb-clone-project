@@ -93,3 +93,20 @@ Identifying design properties in a mockup is essential because:
 - ♿ **Supports accessibility and usability:** Proper use of color contrast and font sizing helps all users  
 - 🧑‍🎨 **Bridges designer-developer collaboration:** Reduces misinterpretation and guesswork between design and code  
 - 🚀 **Ensures brand coherence:** Makes the application look professional and aligned with product identity  
+
+## 🧑‍💼 Project Roles and Responsibilities
+
+Successful completion of this Airbnb Clone project depends on effective collaboration across specialized roles. Below are the defined roles and their core responsibilities:
+
+| **Role**              | **Responsibilities** |
+|------------------------|----------------------|
+| **Project Manager**    | - Oversees project scope, timeline, and progress<br>- Coordinates between team members and stakeholders<br>- Ensures deliverables are on time and aligned with goals |
+| **Frontend Developers** | - Convert UI designs into responsive web components<br>- Implement user interface interactions and state management<br>- Ensure cross-browser compatibility and performance |
+| **Backend Developers** | - Design and develop RESTful APIs and server-side logic<br>- Implement authentication, authorization, and data validation<br>- Manage database schema and handle business logic |
+| **Designers**          | - Create wireframes, mockups, and prototypes using Figma<br>- Define visual identity: color schemes, typography, and layout<br>- Ensure a consistent, accessible, and intuitive user experience |
+| **QA/Testers**         | - Write and execute unit, integration, and UI tests<br>- Identify bugs and regressions and report them clearly<br>- Validate functionality across various devices and browsers |
+| **DevOps Engineers**   | - Set up CI/CD pipelines and manage deployments<br>- Monitor system performance and uptime<br>- Ensure secure and scalable infrastructure |
+| **Product Owner**      | - Defines project vision and user stories<br>- Prioritizes features and backlog based on user needs<br>- Acts as a liaison between the team and stakeholders |
+| **Scrum Master**       | - Facilitates daily standups, sprint planning, and retrospectives<br>- Removes team blockers<br>- Promotes Agile best practices and continuous improvement |
+
+Each role plays a critical part in ensuring the product is functional, scalable, user-friendly, and delivered on time.
